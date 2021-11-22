@@ -1,0 +1,6 @@
+# readme
+
+这个项目是学习用webpack打包一个electron项目时创建的测试项目，一边学习electron-react-boilerplate是如何使用webpack对一个react的项目打包并使用electron
+运行的，一边在这个项目上进行实践，并运用到figma项目上。
+
+figma也是一个学习开源项目figma-linux并尝试自己创建一个相似架构的学习项目。
